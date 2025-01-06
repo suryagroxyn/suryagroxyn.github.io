@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["npm.buffer-xor"],{"8c8a":function(n,o,e){(function(o){n.exports=function(n,e){for(var t=Math.min(n.length,e.length),f=new o(t),r=0;r<t;++r)f[r]=n[r]^e[r];return f}}).call(this,e("b639").Buffer)}}]);
